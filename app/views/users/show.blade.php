@@ -1,0 +1,1 @@
+/home/master/workspace/php/oauth-reg/app/views/users/show.blade.php
