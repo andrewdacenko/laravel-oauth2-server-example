@@ -28,8 +28,7 @@ $app = new Illuminate\Foundation\Application;
 
 $env = $app->detectEnvironment(array(
 
-	'local' => array('ubuntu'),
-	'work' => array('master')
+	'local' => array('master')
 
 ));
 
