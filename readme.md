@@ -1,5 +1,7 @@
 ### Simple OAuth2 server
 
+Install via composer `composer install --no-scripts`.
+
 Configure DB first at `app/config/database.php`.
 
 Then install OAuth2 migrations
