@@ -12,6 +12,8 @@ After migrate and seed
 
 Start server `php artisan serve`
 
-Go to `/applications`. Login: `master`, password: `master`. Add new application. And add new endpoint as `http://localhost:8080/authenticated`
+Go to `http://localhost:8000/auth/login`.
+Login: `master`, password: `master`. 
+There is default application at `http://localhost:8000/applications`
 
-[Simple oauth client github](https://github.com/andrewdacenko/laravel-oauth2-client-example)
+Load [Simple oauth client github](https://github.com/andrewdacenko/laravel-oauth2-client-example) and authorize with password or via auth code.
